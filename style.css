@@ -1,0 +1,13 @@
+/* Header, footer */
+
+header, footer {
+  background-color: black;
+}
+.h-md-250 a:hover{
+  border:2px solid red;
+  background-color: black;
+
+}
+.btn-outline-dark{
+  background-color: black!important
+}
